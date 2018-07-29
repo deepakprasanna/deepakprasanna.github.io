@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 21:22:02 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.org/blogposts/</link>
+      <pubDate>Sun, 22 Jul 2018 21:22:02 -0700</pubDate>
+      
+      <guid>https://example.org/blogposts/</guid>
+      <description>ALL POSTS 2018 March Simple POMODORO APP using Vue.js Phage therapy could be an alternative to antibiotics Simple Fix to fasten node docker build Dockerfile for create-react-app using multistage builds</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sun, 22 Jul 2018 21:22:02 -0700</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Hey, Thanks for stopping by! I’m Deepak. I spend my day-to-day working as a Software Developer. I’ve had the opportunity to work with a wide variety of technologies and help startups build simple to complex systems over the past 10 years.
+I have a huge craving towards learning something new. This means that apart from work, I spend a lot of time reading and trying out new stuff, be it a new technology, exploring different cuisines or a useless talent!</description>
+    </item>
+    
+    <item>
+      <title>Latest Posts</title>
+      <link>https://example.org/latest/</link>
+      <pubDate>Sun, 22 Jul 2018 21:22:02 -0700</pubDate>
+      
+      <guid>https://example.org/latest/</guid>
+      <description>2018 March Simple POMODORO APP using Vue.js Phage therapy could be an alternative to antibiotics Simple Fix to fasten node docker build Dockerfile for create-react-app using multistage builds View all posts</description>
+    </item>
+    
+  </channel>
+</rss>
